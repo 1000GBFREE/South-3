@@ -73,11 +73,7 @@
   float: left;
 }
 
-.btnn
-{
-  margin-top: 3em;
-  margin-left: 5em;
-}
+
 
 .verify_img
 {
@@ -121,11 +117,9 @@
     {
       margin-left: 0;
     }
-    .btnn
-    {
-      margin-left: -10em;
-      margin-right: -10em;
-    }
+  .btn-lg {
+  width:100%
+  }
     .verify_img
     {
       width:3%;
