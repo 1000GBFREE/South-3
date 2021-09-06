@@ -184,17 +184,20 @@ a span:nth-child(4){
 
 #link1
   {
-    background-color: #FDCB00;
+    color: #fff;
+    background: #00000066;
   }
 
   #link2
   {
-    background-color: #E50102;
+        color: #fff;
+    background: #00000066;
   }
 
   #link3
   {
-    background-color: #0183C1;
+       color: #fff;
+    background: #00000066;
   }
 
   #thanks{
