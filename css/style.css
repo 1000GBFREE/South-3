@@ -141,7 +141,7 @@ a span:nth-child(4){
 
 .text_full_screen
 {
-   background-color: #00000036;
+   background-color: #000000;
     color: #ffffff;
     border-radius: 8px;
     padding: 15px;
@@ -175,19 +175,19 @@ a span:nth-child(4){
 #link1
   {
     color: #fff;
-    background: #00000066;
+    background: #134cef59;
   }
 
   #link2
   {
         color: #fff;
-    background: #00000066;
+    background: #138de49e;
   }
 
   #link3
   {
        color: #fff;
-    background: #00000066;
+    background: #246194a6;
   }
 
   #thanks{
