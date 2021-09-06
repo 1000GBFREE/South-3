@@ -39,6 +39,7 @@
     font-weight: 500;
     color: #ffffff;
     font-size:19px;
+    margin:10px;
 }
 
 .titles_bold1
@@ -68,13 +69,14 @@
 .img_small_screen
 {
   float: left;
+  margin:10px;
 }
 
 
 
 .verify_img
 {
-  width:30px !important;
+  width:25px !important;
 }
 
 #link1
